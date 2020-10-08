@@ -1,0 +1,16 @@
+
+html, body 
+{
+    height: 100%;
+    margin: 0;
+}
+
+.bg-pink
+{
+    background-color: #ffb0b0;
+}
+.welcome-text
+{
+    font-size: 20px;
+    font-weight: 700;
+}
